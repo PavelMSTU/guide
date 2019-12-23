@@ -6,9 +6,9 @@
 _Важно уточнить, что программирование невозможно выучить без практики._ Если вы прочли десяток книг и просмотрели множество видеокурсов, вы не сможете программировать, если не пробовали реализовывать собственные программы.
 
 ## Содержание
-* [C++](https://github.com/drewxa/guide/tree/master#c)
-* [Python](https://github.com/drewxa/guide/tree/master#python)
-* [Практика](https://github.com/drewxa/guide/tree/master#tasks)
+* [C++](https://github.com/drewxa/guide/blob/master/Programming.md#c)
+* [Python](https://github.com/drewxa/guide/blob/master/Programming.md#python)
+* [Практика](https://github.com/drewxa/guide/blob/master/Programming.md#tasks)
 
 Ниже представлены материалы для двух языков **С++** и **Python**. Редакция не утверждает, что эти языки лучше остальных, но они имеют ряд преимуществ, которые полезны для изучения.
 
