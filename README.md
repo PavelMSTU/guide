@@ -27,6 +27,6 @@
 1. [Программирование](Programming.md)
 2. [Linux](Linux.md)
 3. [Операционные системы](OS.md)
-4. [Вычислительные сети](Network.md)
+4. [Сети](Networking.md)
 5. [Базы данных](Database.md)
 6. [Алгоритмы и структуры данных](Algorithms.md)
