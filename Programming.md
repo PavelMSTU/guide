@@ -43,7 +43,8 @@ _Важно уточнить, что программирование невоз
 ### Видеокурсы
 1. https://www.coursera.org/specializations/python#courses
 2. https://stepik.org/course/67/promo
-3. https://geekbrains.ru/courses/13
+3. https://stepik.org/course/3206/promo
+4. https://geekbrains.ru/courses/13
 
 
 ## Tasks
