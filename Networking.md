@@ -9,10 +9,10 @@
 Первые два пункта можно усвоить благодаря книгам и онлайн курсам. Последний пункт добивается исключительно практикой. 
 
 ## Содержание
-* [Книги](https://github.com/drewxa/guide/master/Networking.md#books)
-* [Онлайн курсы](https://github.com/drewxa/guide/master/Networking.md#courses)
-* [Практика](https://github.com/drewxa/guide/master/Networking.md#exercises)
-* [Самостоятельный контроль](https://github.com/drewxa/guide/master/Networking.md#exam)
+* [Книги](https://github.com/drewxa/guide/blob/master/Networking.md#books)
+* [Онлайн курсы](https://github.com/drewxa/guide/blob/master/Networking.md#courses)
+* [Практика](https://github.com/drewxa/guide/blob/master/Networking.md#exercises)
+* [Самостоятельный контроль](https://github.com/drewxa/guide/blob/master/Networking.md#exam)
 
 ## Books
 Советуем классику `¯\_(ツ)_/¯`
