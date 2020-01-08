@@ -6,10 +6,10 @@
 СУБД обширная тема, которая включает в себя множество аспектов, такие как: настройка, администрирование и защита СУБД, использование и проектирование баз данных. Данный материал рассчитан на начинающих, поэтому покрывает только основы.
 
 ## Содержание
-* [Книги](https://github.com/drewxa/guide/master/Database.md#books)
-* [Онлайн курсы](https://github.com/drewxa/guide/master/Database.md#courses)
-* [Практика](https://github.com/drewxa/guide/master/Database.md#exercises)
-* [Самостоятельный контроль](https://github.com/drewxa/guide/master/Database.md#exam)
+* [Книги](https://github.com/drewxa/guide/blob/master/Database.md#books)
+* [Онлайн курсы](https://github.com/drewxa/guide/blob/master/Database.md#courses)
+* [Практика](https://github.com/drewxa/guide/blob/master/Database.md#exercises)
+* [Самостоятельный контроль](https://github.com/drewxa/guide/blob/master/Database.md#exam)
 
 ## Books
 1. Алан Бьюли. Изучаем SQL
