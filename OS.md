@@ -6,10 +6,10 @@
 Знания после этого курса должны лечь фундаментом для других предметов.
 
 ## Содержание
-* [Книги](https://github.com/drewxa/guide/master/OS.md#books)
-* [Онлайн курсы](https://github.com/drewxa/guide/master/OS.md#courses)
-* [Практика](https://github.com/drewxa/guide/master/OS.md#exercises)
-* [Самостоятельный контроль](https://github.com/drewxa/guide/master/OS.md#exam)
+* [Книги](https://github.com/drewxa/guide/blob/master/OS.md#books)
+* [Онлайн курсы](https://github.com/drewxa/guide/blob/master/OS.md#courses)
+* [Практика](https://github.com/drewxa/guide/blob/master/OS.md#exercises)
+* [Самостоятельный контроль](https://github.com/drewxa/guide/blob/master/OS.md#exam)
 
 ## Books
 1. Таненбаум. Современные операционные системы.
