@@ -11,11 +11,11 @@
 
 ## Содержание
 * [Какой дистрибутив выбрать](https://github.com/drewxa/guide/master/Linux.md#which%20one)
-* [Установка](https://github.com/drewxa/guide/master/Linux.md#install)
-* [Книги](https://github.com/drewxa/guide/master/Linux.md#books)
-* [Онлайн курсы](https://github.com/drewxa/guide/master/Linux.md#courses)
-* [Практика](https://github.com/drewxa/guide/master/Linux.md#exercises)
-* [Самостоятельный контроль](https://github.com/drewxa/guide/master/Linux.md#exam)
+* [Установка](https://github.com/drewxa/guide/blob/master/Linux.md#install)
+* [Книги](https://github.com/drewxa/guide/blob/master/Linux.md#books)
+* [Онлайн курсы](https://github.com/drewxa/guide/blob/master/Linux.md#courses)
+* [Практика](https://github.com/drewxa/guide/blob/master/Linux.md#exercises)
+* [Самостоятельный контроль](https://github.com/drewxa/guide/blob/master/Linux.md#exam)
 
 ## Which one
 Если вы не новичек, то способны выбрать дистрибутив Linux самостоятельно под ваши задачи. Новички же выбирают [Ubuntu Desktop](https://ubuntu.com/download/desktop). Используйте LTS-версии, например, 16.04 или 18.04.
